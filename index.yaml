@@ -3,7 +3,17 @@ entries:
   watchlog-agent:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-12T14:51:10.860843+03:30"
+    created: "2025-12-12T15:34:06.463113+03:30"
+    description: A Helm chart for Kubernetes
+    digest: 4f67ff4eb6a3f76a3c91b04d269009d664a3fbf45ad285be695cfafd2a9ff247
+    name: watchlog-agent
+    type: application
+    urls:
+    - https://watchlog-monitoring.github.io/watchlog-helm-charts/watchlog-agent-1.0.3.tgz
+    version: 1.0.3
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2025-12-12T15:34:06.462731+03:30"
     description: A Helm chart for Kubernetes
     digest: 69ad4ba4ff86719070ffa4e3dc6c4321f99ebd8f969281c295b30b53bd963e8e
     name: watchlog-agent
@@ -13,7 +23,7 @@ entries:
     version: 1.0.2
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2025-12-12T14:51:10.860588+03:30"
+    created: "2025-12-12T15:34:06.462209+03:30"
     description: A Helm chart for Kubernetes
     digest: ee080776aa6560375df0f7d6b6b6e8f0415d9ac4d39c6553741d3d643735da4b
     name: watchlog-agent
@@ -23,7 +33,7 @@ entries:
     version: 1.0.1
   - apiVersion: v2
     appVersion: 1.3.0
-    created: "2025-12-12T14:51:10.859725+03:30"
+    created: "2025-12-12T15:34:06.461675+03:30"
     description: A Helm chart for Watchlog Kubernetes Agent
     digest: 55236817c11b2c8cd2d59c928aea656727cc6f6d21e920397b20215fc7b155bb
     keywords:
@@ -38,4 +48,4 @@ entries:
     urls:
     - https://watchlog-monitoring.github.io/watchlog-helm-charts/watchlog-agent-1.0.0.tgz
     version: 1.0.0
-generated: "2025-12-12T14:51:10.85931+03:30"
+generated: "2025-12-12T15:34:06.46112+03:30"
